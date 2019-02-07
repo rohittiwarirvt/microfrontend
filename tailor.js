@@ -16,8 +16,8 @@ const server = http.createServer((req, res) => {
     return tailor.requestHandler(req, res);
 });
 
-server.listen(8080, () => {
-    console.log('Tailor started at port 8080');
+server.listen(9080, () => {
+    console.log('Tailor started at port 9080');
 });
 
 tailor.on('error', (request, error) => {

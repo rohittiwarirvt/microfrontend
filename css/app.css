@@ -36,7 +36,7 @@ a{
 }
 
 .men .pic{
-	background-image: url(https://shop.polymer-project.org/images/mens_tshirts.jpg);
+	background-image: url(https://shop.polymer-project.org/esm-bundled/images/mens_tshirts.jpg);
 	background-size: cover;
 	background-position: center;
 	height: 300px;
@@ -44,7 +44,7 @@ a{
 }
 
 .women .pic{
-	background-image: url(https://shop.polymer-project.org/images/ladies_tshirts.jpg);
+	background-image: url(https://shop.polymer-project.org/esm-bundled/images/ladies_tshirts.jpg);
 	background-size: cover;
 	background-position: center;
 	height: 300px;

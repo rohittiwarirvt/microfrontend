@@ -4,7 +4,7 @@ module.exports = {
   entry: './app',
   output: {
     path: __dirname + '/public',
-    publicPath: 'http://localhost:8081/public/',
+    publicPath: 'http://localhost:9081/public/',
     filename: 'bundle.js',
     libraryTarget: 'umd'
   },
